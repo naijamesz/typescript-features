@@ -2,6 +2,23 @@
 
 This repository demonstrates various features of TypeScript through concise examples and explanations. The aim is to help developers understand and utilize TypeScript's powerful features for writing robust and maintainable code.
 
+## Table of Contents
+- [Features Covered](#features-covered)
+  - [1. Basic Type Annotations](#1-basic-type-annotations)
+  - [2. Interfaces and Types](#2-interfaces-and-types)
+  - [3. Classes and Object-Oriented Programming](#3-classes-and-object-oriented-programming)
+  - [4. Generics](#4-generics)
+  - [5. Advanced Types](#5-advanced-types)
+  - [6. Utility Types](#6-utility-types)
+  - [7. Decorators](#7-decorators)
+  - [8. Modules and Namespaces](#8-modules-and-namespaces)
+  - [9. Type Assertion and Type Guards](#9-type-assertion-and-type-guards)
+  - [10. Enums](#10-enums)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running Examples](#running-examples)
+
 ## Features Covered
 
 The repository includes examples and explanations of the following TypeScript features:
